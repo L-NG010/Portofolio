@@ -17,8 +17,8 @@ export const projectsData = [
   },
   {
     id: 3,
-    title: "📦 Brans-library",
-    description: "Library Management System",
+    title: "📦 My Project",
+    description: "",
     tech: ["Brans-library"],
     icons: ["brans-library.jpg"],
     position: 900,
