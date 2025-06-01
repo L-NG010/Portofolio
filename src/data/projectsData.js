@@ -9,8 +9,8 @@ export const projectsData = [
   },
   {
     id: 2,
-    title: "🌐 Web 3 Project",
-    description: "Aplikasi web modern dengan React dan CodeIgniter",
+    title: "🌐 Framework",
+    description: "",
     tech: ["React", "CodeIgniter", "Laravel"],
     icons: ["React.png", "codeigniter.png", "Laravel.png"],
     position: 600,
